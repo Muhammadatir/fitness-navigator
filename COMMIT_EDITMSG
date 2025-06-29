@@ -1,0 +1,7 @@
+Added the fitness website
+
+This commit adds the complete fitness website including  a  Flask application (`app.py`, `main.py`, `routes.py`, `utils.py`),  templates (`templates` directory), static files (`static` directory), and Replit configuration files (`.replit`, `pyproject.toml`, `replit.nix`).  The website generates personalized diet and workout plans.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 4d654b24-b730-45a4-bfc1-b3d1e75110b3
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/286b36df-57cb-4e8b-90c6-782b55c77ca7/4e044028-e65b-4054-896f-e9845160982b.jpg
